@@ -1,1 +1,54 @@
 /* Write your CSS here! */
+header{
+    color: #eeff41;
+    font-size: 60px;
+    text-align: center;
+    background-position: center;
+    background-size: 100%;
+    font-family: sans-serif;
+    text-decoration: underline 
+}
+
+#mainHeading {
+    /* height: 200px; */
+    /* margin: 0%; */
+    /* margin-left: 0%; */
+    /* margin-right: 0%; */
+    text-align: center;
+    /* -webkit-text-stroke-width: 3px; */
+    /* -webkit-text-stroke-color: rgb(255, 255, 255); */
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    background-image: url("");
+    background-position: center;
+    font-family: sans-serif;
+    background-size: 100%;
+}
+article{
+ font-size: 20pt;
+}
+.steps{
+    color: #eeff41;
+    font-size: 30pt;
+    outline: auto;
+    text-align: center;
+}
+body{
+    margin: 8px;
+    background-color: rgb(60, 69, 119);
+}
+footer{
+    font-size: 7pt;
+    color: #fff;
+}
+.funParagraph{
+    color: green;
+}
+
+.imgFunny{
+    height: 250px;
+    width: max-content;
+    /* text-align: center; */
+}
+
